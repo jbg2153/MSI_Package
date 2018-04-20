@@ -5,7 +5,8 @@ Repository for all MSI modules. Move items from "TO DO" to "REVIEW" and "COMPLET
 
 TO DO:
 - Master equation preprocessing
-  i) Dictionary of Xj, Xj0, σj's
+<ul>
+  <li>i) Dictionary of Xj, Xj0, σj's
   ii) PES Connectivity Object
   iii) Species Object
   iv) Transition State Objects
