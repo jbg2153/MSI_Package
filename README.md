@@ -4,17 +4,21 @@ Multiscale Informatics Package
 Repository for all MSI modules. Move items from "TO DO" to "REVIEW" and "COMPLETE" as we write and validate them. Add "TO DO" items as necessary.
 
 TO DO:
-- Master equation preprocessing
 <ul>
-  <li>i) Dictionary of Xj, Xj0, σj's
-  ii) PES Connectivity Object
-  iii) Species Object
-  iv) Transition State Objects
-- Master equation solving
-  i) S_ij = dln(k)/dXj
-  ii) kn(Xj)
-- CTI combiner/writer
-- Rate parameter preprocessing
+  <li>Master equation preprocessing</li>
+  <ul>
+    <li>Dictionary of Xj, Xj0, σj's</li>
+    <li>PES Connectivity Object
+    <li>Species Object
+    <li>Transition State Objects
+  </ul>
+  <li>Master equation solving
+  <ul>
+    <li>S_ij = dln(k)/dXj
+    <li>kn(Xj)
+  </ul>
+  <li>CTI combiner/writer
+  <li>Rate parameter preprocessing
 
 
 REVIEW:
